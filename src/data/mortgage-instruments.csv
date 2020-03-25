@@ -1,0 +1,55 @@
+﻿SERIES,MATURITY,LTV,INSTRUMENT,MEASURE,TYPE
+IUM2WDB,2,95,discounted rate mortgage,end month average interest rate,banks
+IUM2WDS,2,95,discounted rate mortgage,end month average interest rate,building socieities
+IUM5WDT,5,95,discounted rate mortgage,end month average interest rate,bank & building socs
+IUM5WDB,5,95,discounted rate mortgage,end month average interest rate,banks
+IUM5WDS,5,95,discounted rate mortgage,end month average interest rate,building societies
+IUMBRTB,,95,bank rate tracker mortgage,end month average interest rate,banks
+IUMBRTT,,95,bank rate tracker mortgage,end month average interest rate,banks & building societies
+IUMBRTS,,95,bank rate tracker mortgage,end month average interest rate,building societies
+IUMBV43,10,75,fixed mortgage ,end month weighted average interest rate,banks
+IUMBV44,10,75,fixed mortgage ,end month weighted average interest rate,building societies
+IUMB9N6,10,95,fixed mortgage ,end month weighted average interest rate,banks
+IUMB9N8,10,95,fixed mortgage ,end month weighted average interest rate,banks and bsocs
+IUMB9N7,10,95,fixed mortgage ,end month weighted average interest rate,bsocs
+IUMBV46,2,75,discounted mortgage ,end month weighted average interest rate,banks
+IUMBV47,2,75,discounted mortgage ,end month weighted average interest rate,building societies
+IUMBV32,2,75,fixed mortgage ,end month weighted average interest rate,banks
+IUMBV33,2,75,fixed mortgage ,end month weighted average interest rate,building societies
+IUM2WCB,2,95,fixed mortgage ,end month weighted average interest rate,banks
+IUMBV35,3,75,fixed mortgage ,end month weighted average interest rate,banks
+IUMBV36,3,75,fixed mortgage ,end month weighted average interest rate,building societies
+IUM3WCB,3,95,fixed mortgage ,end month weighted average interest rate,banks
+IUM3WTL,3,95,fixed mortgage ,end month weighted average interest rate,banks & building societies
+IUM3WBS,3,95,fixed mortgage ,end month weighted average interest rate,building societies
+IUMBV49,5,75,discounted mortgage ,end month weighted average interest rate,banks
+IUMBV53,5,75,discounted mortgage ,end month weighted average interest rate,banks & building societies
+IUMBV52,5,75,discounted mortgage ,end month weighted average interest rate,building societies
+IUMBV38,5,75,fixed mortgage ,end month weighted average interest rate,banks
+IUMBV39,5,75,fixed mortgage ,end month weighted average interest rate,building societies
+IUM5WCB,5,95,fixed mortgage ,end month weighted average interest rate,banks
+IUM5WBS,5,95,fixed mortgage ,end month weighted average interest rate,building societies
+IUMBV22,,75,bank rate tracker mortgage ,end month weighted average interest rate,banks
+IUMBV23,,75,bank rate tracker mortgage ,end month weighted average interest rate,building societies
+IUMBKMV,,,standard variable mortgage,end month weighted average interest rate,banks
+IUMBSMV,,,standard variable mortgage,end month weighted average interest rate,building societies
+IUMBV45,10,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZO29,2,60,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,buy-to-let
+IUMZICQ,2,60,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZID4,2,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,buy-to-let
+IUMBV34,2,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMBV48,2,75,variable rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZICR,2,85,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMB482,2,90,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMB479,2,90,variable rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUM2WTL,2,95,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUM2WDT,2,95,variable rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMBV37,3,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZO2A,5,60,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,buy-to-let
+IUMZO27,5,60,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZO2B,5,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,buy-to-let
+IUMBV42,5,75,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMZO28,5,90,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUM5WTL,5,95,fixed rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMBV24,,,lifetime tracker mortgage to households,monthly interest rate of uk monetary financial institutions,residential
+IUMTLMV,,,revert-to-rate mortgage to households,monthly interest rate of uk monetary financial institutions,residential
